@@ -42,11 +42,5 @@ Analyzed monthly and yearly spending patterns.
 
 Enhanced decision-making with real-time data-driven reporting.
 
-
 Explore the reports and visualizations.
 
-📂 Repository Structure
-📁 Credit-Card-Financial-Analysis
- ┣ 📄 CreditCard_Financial_Analysis.pbix
- ┣ 📄 Data (sample_dataset.csv / SQL)
- ┣ 📄 README.md
